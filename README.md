@@ -23,5 +23,6 @@ This figure shows that the majority of sales of a product in a particular store 
 ---
 ![heatmap](https://github.com/marwamhz/Prediction-of-Product-Sales/assets/160395937/0c7289db-df18-4c67-8205-4bd45e8d9acf)
 
-The heat map shows that there is a positive correlation between the Sales of the product in the particular store (Item_outlet_Sales) and thhe Maximum Retail Price of the product(Item_MRP). This correlation is moderate.
+The heat map shows that there is a positive correlation between the Sales of the product in the particular store (Item_outlet_Sales) and the Maximum Retail Price of the product(Item_MRP). This correlation is moderate.
+
 ---
