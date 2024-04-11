@@ -24,3 +24,8 @@ The heat map shows that there is a positive correlation between the Sales of the
 ---
 ### Explanatory Data Analysis 
 
+![téléchargement (4)](https://github.com/marwamhz/Prediction-of-Product-Sales/assets/160395937/5358a392-4a18-400d-9e08-081c31f8ebbb)
+This figure shows that the sales are affected by the outlet type.
+
+## Maching Learning 
+For modeling, we choose the Random Forest model with tuned max_depth '10', max_features 'None'& n_estimators '200'. This model explain 58,9% of the variance.
